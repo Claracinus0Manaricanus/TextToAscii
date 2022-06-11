@@ -1,5 +1,6 @@
 # TextToAscii
 this project is to turn text file into ascii format (decimal) and output it as a file.
+the tta.out file must be on the same directory as the text file.
 
 How To Use:
 It comes as a .out file which you can run with ./tta.out on terminal on linux systems.
